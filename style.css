@@ -1,0 +1,25 @@
+.body_backgorund {
+    background-position: center;
+    background-size: cover;
+    background: linear-gradient(#00b330,#009bb3);
+  }
+  h1
+  {
+      color: black; 
+      font-size: 40px;
+      font-family: 'Kufam', cursive;
+      font-weight: 400;
+  }
+  
+  #myCanvas
+  {
+  
+      background-color: white; 
+      border-style:ridge;
+      border-width: 10px;
+  }
+  span
+  {
+      font-size: 20px;
+  }
+  
